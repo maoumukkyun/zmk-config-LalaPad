@@ -232,7 +232,7 @@
             display-name = "right_mouse_layer";
             bindings = <
 &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans     &trans     &trans     &trans          &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &mkp LCLK  &mkp MCLK  &mkp RCLK  &msc MOVE_X(5)  &trans
+&trans  &trans  &trans  &trans  &trans  &trans  &trans  &mkp LCLK  &mkp MCLK  &mkp RCLK  &msc MOVE_Y(5)  &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &trans  &mkp MB4   &mkp MB5   &mkp MB5   &trans          &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans     &trans     &trans     &trans          &trans
                 &trans  &trans  &trans  &trans  &trans  &trans     &trans     &trans
